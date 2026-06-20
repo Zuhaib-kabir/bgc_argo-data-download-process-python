@@ -10,9 +10,9 @@ The workflow is designed for regional oceanographic and biogeochemical analysis 
 
 The processing domain used in this workflow is:
 
-* **Latitude:** 5°N to 23°N
-* **Longitude:** 80°E to 100°E
-* **Region:** Bay of Bengal / Northern Indian Ocean
+* **Latitude:** x to y
+* **Longitude:** x to y
+* **Region:** Edit it
 * **Time period:** All available BGC-Argo profiles within the selected region
 
 ---
