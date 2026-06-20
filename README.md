@@ -14,6 +14,7 @@ The processing domain used in this workflow is:
 * **Longitude:** x to y
 * **Region:** Edit it
 * **Time period:** All available BGC-Argo profiles within the selected region
+* on other nc and csv file name i use BoB location edit it on your own location 
 
 ---
 
