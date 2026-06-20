@@ -12,9 +12,9 @@ The processing domain used in this workflow is:
 
 * **Latitude:** x to y
 * **Longitude:** x to y
-* **Region:** Edit it
+* **Region:** Edit it and other nc and csv file name i use BoB location edit it on your own location 
 * **Time period:** All available BGC-Argo profiles within the selected region
-* on other nc and csv file name i use BoB location edit it on your own location 
+
 
 ---
 
